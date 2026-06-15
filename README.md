@@ -12,7 +12,8 @@ This repository contains an end-to-end Natural Language Processing (NLP) pipelin
 
 The core research question motivating this work is: **Does a more accurate NLP classifier for financial sentiment always produce a more profitable trading signal?** The project explores whether trading alpha is strictly derived from model accuracy or if it is inherently tied to an asset's unique social media ecosystem.
 
----
+## 📌 DISCLAIMER
+This is a Sandbox Model. The procedure is not 100% time-leakage free. The purpose is to simulate an end-to-end pipeline from the selection of the model to the trading strategy.
 
 ## 📊 Datasets
 
